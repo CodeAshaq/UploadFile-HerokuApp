@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Drive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd59be1a-5bce-4a06-83be-a9104d29a421</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>46b1bae3-60a0-4222-b0cd-06cd29a85d96</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>364f78ba-503e-4ad4-8cc5-47ba0facab9a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>710d61d7-4a19-4bfb-9192-cefaa9da3019</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>46b1bae3-60a0-4222-b0cd-06cd29a85d96</id>
+      <masked>false</masked>
+      <name>No</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>364f78ba-503e-4ad4-8cc5-47ba0facab9a</id>
+      <masked>false</masked>
+      <name>ModuleName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>710d61d7-4a19-4bfb-9192-cefaa9da3019</id>
+      <masked>false</masked>
+      <name>URLDIR</name>
+   </variable>
+</TestCaseEntity>
