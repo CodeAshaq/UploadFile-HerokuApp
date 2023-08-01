@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://the-internet.herokuapp.com/upload')
 
-WebUI.uploadFile(findTestObject('Page_TestDrive/input_File Uploader_file'), findTestData('Upload F04').getValue(1, 1))
+WebUI.uploadFile(findTestObject('Page_The Internet/Btn_ChooseFile'), findTestData('Upload F04').getValue(3, 1))
 
-WebUI.click(findTestObject('Page_TestDrive/input_File Uploader_file-submit'))
+WebUI.click(findTestObject('Page_The Internet/Btn_Upload'))
 
